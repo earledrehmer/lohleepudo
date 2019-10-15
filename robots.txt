@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kaejeijai.sevendeadlysinsts.com/sitemap.xml
